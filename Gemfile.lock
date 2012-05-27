@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    facter (1.6.9)
+    ffi (1.0.11)
+    sys-cpu (0.7.0)
+      ffi (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  facter
+  sys-cpu
